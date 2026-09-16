@@ -1,0 +1,8 @@
+{
+  "name": "crm",
+  "command": "fastmcp",
+  "args": [
+    "run"
+  ],
+  "entrypoint": "server.py"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "crm",
+  "command": "fastmcp",
+  "args": [
+    "run",
+    "C:\\Users\\Langware-Ishay\\Flowpad workspace\\testing-agent-launch-staging\\agentic-assets\\mcp\\crm\\server.py"
+  ]
+}
