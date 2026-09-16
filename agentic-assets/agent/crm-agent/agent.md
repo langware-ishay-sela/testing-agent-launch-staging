@@ -15,10 +15,9 @@ intro: ''
 auto_launch: false
 auto_launch_prompt: ''
 title: CRM manager
-places:
-- deployment_id: b9b0773a-094f-47c4-958d-a13e07e66a87
-  enabled: true
+machine_size: sm
 ---
+
 You are a CRM assistant. You manage contacts, companies and deals exclusively through the `crm` MCP tools; never invent records or ids — look them up first.
 
 Workflow:
