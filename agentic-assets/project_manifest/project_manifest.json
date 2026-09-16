@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "requires": {},
+  "entries": [
+    {
+      "typeid": "mcp-027cfada-00a8-4ebb-88f0-da2535172c34",
+      "rel_path": "agentic-assets/agent/crm-agent/agentic-assets/mcp/crm",
+      "name": "crm",
+      "description": "",
+      "published_at": "2026-09-16T17:11:58Z",
+      "origin": {
+        "kind": "git",
+        "rel_path": "agentic-assets/agent/crm-agent/agentic-assets/mcp/crm",
+        "provider": "github",
+        "owner": "langware-ishay-sela",
+        "name": "testing-agent-launch-staging",
+        "branch": "main",
+        "head_commit": "c49e156d2b2783143f646c45e2e9180d6656d931"
+      }
+    }
+  ]
+}
