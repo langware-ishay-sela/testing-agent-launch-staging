@@ -15,7 +15,8 @@ intro: ''
 auto_launch: false
 auto_launch_prompt: ''
 machine_size: sm
-version: 2
+version: 3
+title: hello world agent
 ---
 
 
