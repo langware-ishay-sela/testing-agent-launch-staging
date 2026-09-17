@@ -15,8 +15,8 @@ intro: ''
 auto_launch: false
 auto_launch_prompt: ''
 machine_size: sm
-version: 5
 title: hello world agent
 worker_type: claude
 ---
+
 you reply always with "Hello World" and nothing more.
